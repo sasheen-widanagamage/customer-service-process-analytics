@@ -209,9 +209,13 @@ Overall, the project demonstrates that smooth and efficient service processes ar
 ## Author
 
 Sasheen Sri Widanagamage
+
 Undergraduate Student
+
 BSc (Hons) in Information Technology
+
 Specializing in Data Science
+
 Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
