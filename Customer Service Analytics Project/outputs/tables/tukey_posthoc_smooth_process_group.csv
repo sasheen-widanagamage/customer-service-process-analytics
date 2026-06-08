@@ -1,0 +1,4 @@
+"comparison","diff","lwr","upr","p adj"
+"Moderate Smoothness-Low Smoothness",0.617082674558527,0.604898839593884,0.629266509523169,0
+"High Smoothness-Low Smoothness",1.33602881219559,1.3239003725106,1.34815725188059,0
+"High Smoothness-Moderate Smoothness",0.718946137637066,0.711051640445103,0.726840634829028,0

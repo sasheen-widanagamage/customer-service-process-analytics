@@ -1,0 +1,5 @@
+"arrival_delay_group","customer_count","mean_overall_experience_score","satisfaction_rate"
+"Major Delay",9088,3.19800836267606,0.438270246478873
+"Minor Delay",27176,3.29942780394466,0.530468060052988
+"Moderate Delay",20470,3.25588055691256,0.478749389350269
+"No Delay",73146,3.34734640308424,0.586334180953162

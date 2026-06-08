@@ -1,0 +1,4 @@
+"smooth_process_group","customer_count","mean_smooth_process_score","mean_overall_experience_score","median_overall_experience_score","sd_overall_experience_score","satisfaction_rate"
+"High Smoothness",58527,3.94814074415797,3.78012925658243,3.875,0.566317073255658,0.710321731850257
+"Low Smoothness",15302,2.06722432797456,2.44410044438635,2.375,0.550561800079948,0.214547118023788
+"Moderate Smoothness",56051,2.97609022735247,3.06118311894525,3.125,0.578878661126895,0.467984514103227
