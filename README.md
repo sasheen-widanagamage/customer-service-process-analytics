@@ -156,7 +156,7 @@ Model performance was evaluated using:
 
 This chart shows how satisfaction rates change across low, moderate, and high smoothness groups.
 
-![Satisfaction Rate by Smooth Process Group](outputs/plots/05_satisfaction_rate_by_smooth_process_group.png)
+<img src="Customer%20Service%20Analytics%20Project/outputs/plots/05_satisfaction_rate_by_smooth_process_group.png" width="850">
 
 ---
 
@@ -164,7 +164,7 @@ This chart shows how satisfaction rates change across low, moderate, and high sm
 
 This boxplot compares customer experience scores across service process smoothness levels.
 
-![Overall Experience by Smooth Process Group](outputs/plots/04_experience_by_smooth_process_group.png)
+<img src="Customer%20Service%20Analytics%20Project/outputs/plots/04_experience_by_smooth_process_group.png" width="850">
 
 ---
 
@@ -172,7 +172,7 @@ This boxplot compares customer experience scores across service process smoothne
 
 This heatmap shows the relationships between service process variables, overall experience, and satisfaction.
 
-![Correlation Heatmap](outputs/plots/08_correlation_heatmap.png)
+<img src="Customer%20Service%20Analytics%20Project/outputs/plots/08_correlation_heatmap.png" width="850">
 
 ---
 
@@ -180,7 +180,7 @@ This heatmap shows the relationships between service process variables, overall 
 
 This chart shows the predictive performance of the logistic regression models.
 
-![ROC Curve Comparison](outputs/plots/11_roc_curve_model_comparison.png)
+<img src="Customer%20Service%20Analytics%20Project/outputs/plots/11_roc_curve_model_comparison.png" width="850">
 
 ---
 
@@ -208,14 +208,10 @@ Overall, the project demonstrates that smooth and efficient service processes ar
 
 ## Author
 
-Sasheen Sri Widanagamage
+**Sasheen Sri Widanagamage**  
 
-Undergraduate Student
-
-BSc (Hons) in Information Technology
-
-Specializing in Data Science
-
+Undergraduate Student  
+BSc (Hons) in Information Technology  
+Specializing in Data Science  
 Sri Lanka Institute of Information Technology (SLIIT)
 
----
