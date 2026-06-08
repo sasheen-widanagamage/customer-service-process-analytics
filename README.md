@@ -58,7 +58,7 @@ Key variables used include:
 
 ## Methodology
 
-### 1. Data Cleaning and Preparation
+### Data Cleaning and Preparation
 
 The dataset was cleaned and prepared in R Studio. The main steps included:
 
